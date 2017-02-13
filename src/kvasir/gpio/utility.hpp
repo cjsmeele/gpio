@@ -12,7 +12,7 @@ limitations under the License.
 ****************************************************************************/
 #pragma once
 #include "Mpl/Algorithm.hpp"
-#include "Types.hpp"
+#include "types.hpp"
 
 namespace Kvasir {
 namespace Gpio{

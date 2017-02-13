@@ -12,9 +12,9 @@ limitations under the License.
 ****************************************************************************/
 #pragma once
 #include "Mpl/Utility.hpp"
-#include "Types.hpp"
-#include "PinFactories.hpp"
-//#include "PortFactories.hpp"
+#include "types.hpp"
+#include "pin_factories.hpp"
+//#include "port_factories.hpp"
 
 namespace Kvasir {
 namespace Gpio{
